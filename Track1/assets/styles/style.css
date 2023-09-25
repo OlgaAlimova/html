@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 700;
+}
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    color: #670283;
+    font-family: 'Open Sans';
+    font-weight: 700;
+}
+.title {
+    font-size: 45px;
+    line-height: normal;
+    color: aquamarine;
+}
+.description {
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+.for_pic_flowers {
+    width: 150px;
+    height: 200px;
+}
