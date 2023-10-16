@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Gilroy', sans-serif;
+    src: url(./fonts/gilroy-regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Gilroy', sans-serif;
+    src: url(./fonts/gilroy-bold.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Gilroy', sans-serif;
+    src: url(./fonts/gilroy-medium.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Gilroy', sans-serif;
+    src: url(./fonts/gilroy-semibold.ttf);
+    font-weight: 400;
+} 
+body {
+    margin: 0;
+}
+html {
+    font-family: 'Gilroy', sans-serif;
+}
+.header {
+    height: 100px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logotop {
+    width: 137px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.header-itemhome {
+    font-family: Gilroy-SemiBold;
+    color: #F25822;
+    text-decoration: none;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.header-item {
+    font-family: Gilroy-Medium;
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.but-get-start {
+    width: 120px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #F25822;
+}
+.get-text-but {
+    color: #FFF;
+    font-family: Gilroy-SemiBold;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.intro {
+    display: flex;
+    justify-content: space-between;
+    gap: 40,94;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro-offer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 522px;
+    height: 222px;
+}
+.offer {
+    
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: normal;
+}
+.intro-tezt-size {
+    width: 466px;
+    height: 48px;
+
+}
+.intro-text {
+    
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+}
+.toppic {
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;
+    margin-right: 63,98;
+}
+.fin-top {
+    display: flex;
+    align-items: center;
+    width: 408px;
+}
+.but-start {
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    flex-shrink: 0;
+    margin-right: 27;
+}
+.now-text-but {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.fin-watch {
+    width: 135px;
+    height: 30px;
+    flex-shrink: 0;
+}
+.logo-fut {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 243px;
+}
+.size {
+    width: 160px;
+    height: 50px;
+    flex-shrink: 0;
+}
